@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/EthDaddy/static/css/main.b2be5cc9.chunk.css",
+    "main.js": "/EthDaddy/static/js/main.ece67f21.chunk.js",
+    "main.js.map": "/EthDaddy/static/js/main.ece67f21.chunk.js.map",
+    "runtime-main.js": "/EthDaddy/static/js/runtime-main.828b5440.js",
+    "runtime-main.js.map": "/EthDaddy/static/js/runtime-main.828b5440.js.map",
+    "static/js/2.61646460.chunk.js": "/EthDaddy/static/js/2.61646460.chunk.js",
+    "static/js/2.61646460.chunk.js.map": "/EthDaddy/static/js/2.61646460.chunk.js.map",
+    "static/js/3.5c806c81.chunk.js": "/EthDaddy/static/js/3.5c806c81.chunk.js",
+    "static/js/3.5c806c81.chunk.js.map": "/EthDaddy/static/js/3.5c806c81.chunk.js.map",
+    "index.html": "/EthDaddy/index.html",
+    "static/css/main.b2be5cc9.chunk.css.map": "/EthDaddy/static/css/main.b2be5cc9.chunk.css.map",
+    "static/js/2.61646460.chunk.js.LICENSE.txt": "/EthDaddy/static/js/2.61646460.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/EthDaddy/static/media/browser.ae133d08.svg",
+    "static/media/logo.4d5d0a83.svg": "/EthDaddy/static/media/logo.4d5d0a83.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.828b5440.js",
+    "static/js/2.61646460.chunk.js",
+    "static/css/main.b2be5cc9.chunk.css",
+    "static/js/main.ece67f21.chunk.js"
+  ]
+}
