@@ -1,0 +1,22 @@
+//TO-DO
+//1. List domains
+	/*Model Domain checkSave Domain check, update total domain count check*/
+//2. buy domains - domains being created minted after buying
+//3. get paid - owner pay top contract withdraw to owner
+
+
+//deploy
+-deploy smart contrac to npx hardhat node blockchain
+- migration script deploy.js
+- write code for deployment - check
+
+//connect smart contract to website
+- need address + abi if want to access SC from website
+
+//need ABI in order to communicate from website to SC
+- and also abi + contract address create js version of SC in order to communicatre with other blockchains
+
+
+1. smoke test - show meta mask account on website . check
+2. list domains on page - need to create
+3. buy - call mint function to buy domain
